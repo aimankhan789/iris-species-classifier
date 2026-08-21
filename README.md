@@ -53,6 +53,9 @@ The models achieved high classification accuracy on the Iris dataset.
 ```bash
 pip install -r requirements.txt
 jupyter notebook "iris-flower-classification (1).ipynb"
+## Conclusion
+
+K-Nearest Neighbors (KNN) was selected as the final model because it achieved the highest cross-validation accuracy of 96.67% among the three models. Although the Decision Tree achieved a higher test accuracy of 96.67%, KNN showed stronger cross-validation performance, indicating more consistent performance across different data splits.
 
 
 ## Files
