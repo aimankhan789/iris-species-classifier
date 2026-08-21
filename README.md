@@ -44,6 +44,16 @@ The models achieved high classification accuracy on the Iris dataset.
 - Scikit-learn
 - Matplotlib
 - Seaborn
+- ## How to Run the Notebook Locally
+
+1. Clone or download this repository.
+
+2. Install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+jupyter notebook "iris-flower-classification (1).ipynb"
+
 
 ## Files
 - `iris-flower-classification (1).ipynb` — Complete machine learning notebook
