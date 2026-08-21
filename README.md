@@ -14,6 +14,10 @@ The project uses the Iris Species dataset containing three flower species:
 - Setosa
 - Versicolor
 - Virginica
+- ### Dataset Sources
+
+- [UCI Machine Learning Repository – Iris Dataset](https://archive.ics.uci.edu/dataset/53/iris)
+- [Kaggle – Iris Species Dataset](https://www.kaggle.com/datasets/uciml/iris)
 
 ## Machine Learning Models
 The following models were used:
