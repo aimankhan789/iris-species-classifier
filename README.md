@@ -23,6 +23,12 @@ The following models were used:
 
 ## Project Results
 The models achieved high classification accuracy on the Iris dataset.
+| Algorithm           | Test Accuracy | CV Accuracy |
+| ------------------- | ------------: | ----------: |
+| KNN                 |        93.33% |      96.67% |
+| Decision Tree       |        96.67% |      93.33% |
+| Logistic Regression |        93.33% |      95.83% |
+
 
 ## Technologies Used
 - Python
